@@ -1,41 +1,39 @@
 # Number_Combination_Generator
-是一个枚举整数最短公式的程序，公式由加减乘除、括号和用户输入的数字构成。
+Number_Combination_Generator is a program that enumerates the shortest formula for a set of integers, consisting of addition, subtraction, multiplication, division, parentheses, and user input numbers. 
 
-旨在为homo-calculator提供字典的程序。
+It aims to provide a dictionary for homo-calculator.
 
-实现方式是先在python把可能的组合跑一遍，留下其中正整数最短的公式。
+The implementation method is to first run all possible combinations in python and leave the shortest positive integer formula.
 
-## 注意事项：
-1.本软件由AISophon(QQ:`2498946652`)自主开发
+## Precautions:
+1.This software is independently developed by AISophon (QQ:2498946652)
 
-2.如需转载/修改，需要经过作者AISophon(QQ:`2498946652`)知情并同意，违者必究！
+2.If you need to reprint/modify it, you need to obtain the consent of the author AISophon (QQ:2498946652). Violators will be held liable!
 
-3.该软件仅在'Windows 11 家庭中文版 22H2'上测试，
+3.The software is only tested on 'Windows 11 Home Chinese Version 22H2'.
 
-4.如果使用了其它系统/修改过的系统，作者AISophon(QQ:`2498946652`)不能保证能够成功运行。
+4.If other systems/modified systems are used, the author AISophon (QQ:2498946652) cannot guarantee successful operation.
 
-5.如果使用了其它系统/修改过的系统，对硬件/软件造成损失的，作者AISophon(QQ:`2498946652`)概不负责！
+5.The author AISophon (QQ:2498946652) is not responsible for the losses caused to hardware/software if other systems/modified systems are used!
 
-## 使用教程：
-1.下载'NCG.zip'
+## Tutorial:
+1.Download 'NCG.zip'
 
-2.解压缩'NCG.zip'
+2.Unzip 'NCG.zip'
 
-3.打开解压缩'NCG.zip'的'NCG'文件夹
+3.Open the 'NCG' folder after unzipping 'NCG.zip'
 
-4.打开'NCG'文件夹中的'input.txt'TXT 文本文档
+4.Open the 'input.txt' TXT text document in the 'NCG' folder
 
-5.输入若干个正整数，以空格隔开(例如：`1 1 4`)
+5.Enter several positive integers separated by spaces (e.g., 1 1 4) Note: Do not put a space at the beginning, and do not use line breaks!
 
-  注意：不要在开头先空格，不要打换行符(linebreak)！
-  
-6.保存'input.txt'TXT 文本文档
+6.Save the 'input.txt' TXT text document
 
-7.运行'Number_Combination_Generator.exe'应用程序
+7.Run the 'Number_Combination_Generator.exe' application
 
-8.打开'end.txt'，里面的内容就是结果了
+8.Open 'end.txt', and the contents inside are the results.
 
-## 悄悄话
-如果你喜欢的话，请给仓库点一个star~~
+## Confidential Secret
+If you like it, please give the repository a star~~
 
-如果有更好的思路，欢迎pr或者提出issue
+If you have better ideas, feel free to send a pull request or raise an issue.
