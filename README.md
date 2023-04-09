@@ -1,2 +1,41 @@
 # Number_Combination_Generator
-An enumeration program for the shortest formula of integer, consisting of addition, subtraction, multiplication, division, parentheses and numbers input by the user
+是一个枚举整数最短公式的程序，公式由加减乘除、括号和用户输入的数字构成。
+
+旨在为homo-calculator提供字典的程序。
+
+实现方式是先在python把可能的组合跑一遍，留下其中正整数最短的公式。
+
+## 注意事项：
+1.本软件由AISophon(QQ:`2498946652`)自主开发
+
+2.如需转载/修改，需要经过作者AISophon(QQ:`2498946652`)知情并同意，违者必究！
+
+3.该软件仅在'Windows 11 家庭中文版 22H2'上测试，
+
+4.如果使用了其它系统/修改过的系统，作者AISophon(QQ:`2498946652`)不能保证能够成功运行。
+
+5.如果使用了其它系统/修改过的系统，对硬件/软件造成损失的，作者AISophon(QQ:`2498946652`)概不负责！
+
+## 使用教程：
+1.下载'NCG.zip'
+
+2.解压缩'NCG.zip'
+
+3.打开解压缩'NCG.zip'的'NCG'文件夹
+
+4.打开'NCG'文件夹中的'input.txt'TXT 文本文档
+
+5.输入若干个正整数，以空格隔开(例如：`1 1 4`)
+
+  注意：不要在开头先空格，不要打换行符(linebreak)！
+  
+6.保存'input.txt'TXT 文本文档
+
+7.运行'Number_Combination_Generator.exe'应用程序
+
+8.打开'end.txt'，里面的内容就是结果了
+
+## 悄悄话
+如果你喜欢的话，请给仓库点一个star~~
+
+如果有更好的思路，欢迎pr或者提出issue
