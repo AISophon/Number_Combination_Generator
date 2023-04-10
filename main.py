@@ -1,5 +1,6 @@
 import itertools
 import re
+import os
 
 #定义递归函数用于生成表达式
 def generate_expr(nums):
