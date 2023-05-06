@@ -5,7 +5,7 @@ It aims to provide a dictionary for homo-calculator.
 
 The implementation method is to first run all possible combinations in python and leave the shortest positive integer formula.
 
-**English** | [中文](https://github.com/AISophon/Number_Combination_Generator/blob/master/README_cn.md)
+**English** | [中文](https://github.com/AISophon/Number_Combination_Generator/blob/main/README_cn.md)
 
 ## Precautions:
 - This software is independently developed by AISophon (QQ:`2498946652`)
